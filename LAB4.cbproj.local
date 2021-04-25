@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.483,=D:\Документы\Embarcadero\Studio\Projects\MainFormClass.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,D:\Документы\Embarcadero\Studio\Projects\Unit1.h=D:\Документы\Embarcadero\Studio\Projects\SearchFormClass.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.523,=D:\Документы\Embarcadero\Studio\Projects\NumberEntryFormClass.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,D:\Документы\Embarcadero\Studio\Projects\Lab4.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.480,=D:\Документы\Embarcadero\Studio\Projects\Lab4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,=D:\Документы\Embarcadero\Studio\Projects\EditFormClass.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.162,D:\Документы\Embarcadero\Studio\Projects\Project1.cbproj=D:\Документы\Embarcadero\Studio\Projects\LAB4.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.830,=D:\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,D:\Документы\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Документы\Embarcadero\Studio\Projects\LAB4PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,D:\Документы\Embarcadero\Studio\Projects\Unit1.dfm=D:\Документы\Embarcadero\Studio\Projects\SearchFormClass.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.423,=D:\Документы\Embarcadero\Studio\Projects\AboutFormClass.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.569,=D:\Документы\Embarcadero\Studio\Projects\ResultFormClass.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.125,D:\Документы\Embarcadero\Studio\Projects\LAB4.cbproj=D:\Документы\Embarcadero\Studio\Projects\LAB4.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,=D:\Документы\Embarcadero\Studio\Projects\Zoo.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,=D:\Документы\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.581,=D:\Документы\Embarcadero\Studio\Projects\Zoo.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.666,D:\Документы\Embarcadero\Studio\Projects\AboutFormClass.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,=D:\Документы\Embarcadero\Studio\Projects\ABOUT.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.166,D:\Документы\Embarcadero\Studio\Projects\Unit1.cpp=D:\Документы\Embarcadero\Studio\Projects\SearchFormClass.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.676,=D:\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.936,=D:\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
